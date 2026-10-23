@@ -27,7 +27,7 @@ The whole pipeline (feature extraction → training → evaluation → interpret
 
 ```
 A-eye/
-├── ie643_optimized_data_sep.ipynb   # Complete pipeline (Colab notebook)
+├── A-eye_Video_detection.ipynb.ipynb   # Complete pipeline (Colab notebook)
 └── README.md                        # This file
 ```
 
@@ -37,7 +37,7 @@ The videos, cached features, trained model and result figures are **not stored i
 
 ## Dataset (Google Drive)
 
-📁 **Data folder:** [`Data_1` on Google Drive](https://drive.google.com/drive/folders/1lkY4ZFNJIdxDjl99WU7Dr3xzH2BoqQbB?usp=drive_link)
+📁 **Data folder:** [`Data_1` on Google Drive](https://drive.google.com/drive/folders/1ZaGTlcDO5vOlV2Bs5sPupkf4yGiWgrMd?usp=sharing)
 
 ### Folder layout
 
